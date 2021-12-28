@@ -38,6 +38,8 @@ The V-Minion features linear rails on all 3 axes, providing smooth and quiet mot
 
 ### EVA Modular Print Head System
 The V-Minion features EVA for its extruder and hotend carriage platform. This means you can use a wide range of extruder and hotend combinations, outside of the ones we supply. There are many options. EVA allows your printer to be open to updates in hotend or extruder technology in the future: every year there are new hotends and extruders which are released by so many amazing manufacturers. How cool is it that you get to simply re-print your print head and upgrate to a new hotend or extruder?
+
+EVA is a project developped by Paweł Kucmus, read more about EVA in the official [EVA project page](https://main.eva-3d.page/).
 ![](/assets/feature_eva.png)
 
 ### Precision Milled Bed
@@ -97,3 +99,7 @@ The V-Minion is an open-source project which is a result of countless hours of c
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+
+Even though the license is Non-commercial, we may (and most likely will) still allow commercial use on a case-by-case basis, if you ask us.
+
+Rat Rig was built on community mods - that's how products like the V-Core 3 came to life. Hindering contributions to the project is not the spirit of this license. Its intent is just to give us a bit more control over the product when it comes to competition from large-scale manufacturers. We are and always have been in favour of people building upon Rat Rig products. We welcome and encourage people to offer services, mods, and to use our product commercially, as long as you contact us first!
