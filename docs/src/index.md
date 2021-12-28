@@ -36,6 +36,10 @@ Utilizing 3060 extrusion for its frame, the V-Minion is extremely sturdy. This a
 The V-Minion features linear rails on all 3 axes, providing smooth and quiet motion.
 ![](/assets/feature_linear_rails.png)
 
+### EVA Modular Print Head System
+The V-Minion features EVA for its extruder and hotend carriage platform. This means you can use a wide range of extruder and hotend combinations, outside of the ones we supply. There are many options. EVA allows your printer to be open to updates in hotend or extruder technology in the future: every year there are new hotends and extruders which are released by so many amazing manufacturers. How cool is it that you get to simply re-print your print head and upgrate to a new hotend or extruder?
+![](/assets/feature_eva.png)
+
 ### Precision Milled Bed
 The V-Minion features a custom made, precision milled, 5mm bed plate designed for exceptional flatness and heat stability. Going one step further, we have worked directly with Keenovo, industry leaders in silicone heaters, to develop a bed heater which is both high performance, and safe due to its built-in thermal protection.
 ![](/assets/feature_bed.png)
